@@ -15,6 +15,7 @@ interval = "*"
 Cython = "*"
 Unidecode = "*"
 tqdm = "*"
-
+matplotlib = "*"
+biogeme = "*"
 [requires]
 python_version = "3.9"
